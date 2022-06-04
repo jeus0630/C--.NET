@@ -1,0 +1,8 @@
+C:\Users\Jewoo\Desktop\SheridanCollege\.net\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+C:\Users\Jewoo\Desktop\SheridanCollege\.net\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+C:\Users\Jewoo\Desktop\SheridanCollege\.net\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+C:\Users\Jewoo\Desktop\SheridanCollege\.net\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.AssemblyReference.cache
+C:\Users\Jewoo\Desktop\SheridanCollege\.net\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jewoo\Desktop\SheridanCollege\.net\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Jewoo\Desktop\SheridanCollege\.net\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+C:\Users\Jewoo\Desktop\SheridanCollege\.net\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
