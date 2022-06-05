@@ -1,4 +1,5 @@
 ﻿using System;
+using ConsoleAppTest.Math;
 
 namespace ConsoleAppTest
 {
@@ -6,8 +7,14 @@ namespace ConsoleAppTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
-            Console.WriteLine("{0} {1}", float.MinValue, float.MaxValue);
-        }
+            var John = new Person();
+            John.firstnName = "John";
+            John.lastName = "Smith";
+            John.Introduce();
+
+            Calculator calculator = new Calculator();
+            var result = calculator.Add(1, 2);
+            Console.WriteLine(result);
+        }   
     }
 }
