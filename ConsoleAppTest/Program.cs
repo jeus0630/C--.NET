@@ -2,21 +2,16 @@
 
 namespace ConsoleAppTest
 {
-    public enum ShippingMethod
-    {
-        RegularAirMail,
-        RegisteredAirMail,
-        Express
-    }
-
     internal class Program
     {
         static void Main(string[] args)
         {
-            var method = ShippingMethod.RegularAirMail;
-            Console.WriteLine((int)method);
-            Console.WriteLine((ShippingMethod)method);
-            Console.WriteLine(method.ToString());
+            var names = new string[] { "My", "Name", "Is", "Jewoo", "Ham" };
+
+            foreach(var name in names)
+            {
+                Console.WriteLine(name);
+            }
         }   
     }
 }
