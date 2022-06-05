@@ -1,20 +1,22 @@
 ﻿using System;
-using ConsoleAppTest.Math;
 
 namespace ConsoleAppTest
 {
+    public enum ShippingMethod
+    {
+        RegularAirMail,
+        RegisteredAirMail,
+        Express
+    }
+
     internal class Program
     {
         static void Main(string[] args)
         {
-            var John = new Person();
-            John.firstnName = "John";
-            John.lastName = "Smith";
-            John.Introduce();
-
-            Calculator calculator = new Calculator();
-            var result = calculator.Add(1, 2);
-            Console.WriteLine(result);
+            var method = ShippingMethod.RegularAirMail;
+            Console.WriteLine((int)method);
+            Console.WriteLine((ShippingMethod)method);
+            Console.WriteLine(method.ToString());
         }   
     }
 }
